@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api"; // Replace with your actual backend URL
+const API_URL = "https://iit-backend.vercel.app/api"; // Replace with your actual backend URL
 let token = ""; // To store the JWT
 
 // Function to handle user registration
